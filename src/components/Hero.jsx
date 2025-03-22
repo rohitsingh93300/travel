@@ -3,7 +3,7 @@ import Decore from "../assets/Decore.png"
 import HeroImg from "../assets/Heroimg.png"
 import { Play } from 'lucide-react'
 import Navbar from './Navbar'
-import redLine from "../assets/redLine.png"
+import redLine from "../assets/redline.png"
 
 const Hero = () => {
     return (
